@@ -13,4 +13,8 @@ print answer
 
 #or
 print(" ".join(map(str, arr[::-1])))
+<<<<<<< 0f4725c1a17031c69394374a1a2f4538c8cf5fc1
 #test901
+=======
+#test456
+>>>>>>> Abstract classes 13
